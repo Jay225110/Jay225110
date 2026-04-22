@@ -48,6 +48,3 @@
 
 ⭐ *"Learning. Breaking. Securing."*
 
----
-
-⭐ *Security is not a tool, it's a mindset.*
