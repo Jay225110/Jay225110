@@ -1,6 +1,6 @@
 # Hey, I'm Jayaraj 👋
 
-🔐 Cybersecurity learner exploring how systems break — and how to defend them  
+🔐 Cybersecurity learner exploring how systems break and how to defend them  
 💻 Focused on Web Security, Network Analysis & SOC fundamentals  
 
 ---
